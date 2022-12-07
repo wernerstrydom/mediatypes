@@ -1,0 +1,5 @@
+type: application/rss+xml
+extensions:
+    - rss
+    - xml
+format: text/xml

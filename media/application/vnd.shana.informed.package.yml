@@ -1,0 +1,4 @@
+type: application/vnd.shana.informed.package
+extensions:
+    - ipk
+registered: true

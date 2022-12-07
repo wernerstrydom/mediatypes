@@ -1,0 +1,4 @@
+type: application/vnd.arastra.swi
+extensions:
+    - swi
+registered: true

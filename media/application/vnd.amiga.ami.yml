@@ -1,0 +1,4 @@
+type: application/vnd.amiga.ami
+extensions:
+    - ami
+registered: true

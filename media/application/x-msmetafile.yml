@@ -1,0 +1,6 @@
+type: application/x-msmetafile
+extensions:
+    - wmf
+    - wmz
+    - emf
+    - emz

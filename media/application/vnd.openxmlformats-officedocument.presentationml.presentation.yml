@@ -1,0 +1,4 @@
+type: application/vnd.openxmlformats-officedocument.presentationml.presentation
+extensions:
+    - pptx
+registered: true

@@ -1,0 +1,4 @@
+type: application/vnd.cups-ppd
+extensions:
+    - ppd
+registered: true

@@ -1,0 +1,4 @@
+type: application/xaml+xml
+extensions:
+    - xaml
+format: text/xml

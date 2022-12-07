@@ -1,0 +1,4 @@
+type: application/vnd.businessobjects
+extensions:
+    - rep
+registered: true

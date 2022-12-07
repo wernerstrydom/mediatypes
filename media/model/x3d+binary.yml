@@ -1,0 +1,4 @@
+type: model/x3d+binary
+extensions:
+    - x3db
+    - x3dbz

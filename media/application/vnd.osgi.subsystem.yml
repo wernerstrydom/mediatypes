@@ -1,0 +1,4 @@
+type: application/vnd.osgi.subsystem
+extensions:
+    - esa
+registered: true

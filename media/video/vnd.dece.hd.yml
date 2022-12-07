@@ -1,0 +1,5 @@
+type: video/vnd.dece.hd
+extensions:
+    - uvh
+    - uvvh
+registered: true

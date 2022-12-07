@@ -1,0 +1,4 @@
+type: application/omdoc+xml
+extensions:
+    - omdoc
+format: text/xml

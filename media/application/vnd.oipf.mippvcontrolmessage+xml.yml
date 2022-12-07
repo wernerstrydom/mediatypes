@@ -1,0 +1,3 @@
+type: application/vnd.oipf.mippvcontrolmessage+xml
+format: text/xml
+registered: true

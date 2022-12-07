@@ -1,0 +1,3 @@
+type: application/vnd.hal+json
+format: application/json
+registered: true

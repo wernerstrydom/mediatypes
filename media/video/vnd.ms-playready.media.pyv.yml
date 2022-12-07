@@ -1,0 +1,4 @@
+type: video/vnd.ms-playready.media.pyv
+extensions:
+    - pyv
+registered: true

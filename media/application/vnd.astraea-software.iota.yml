@@ -1,0 +1,4 @@
+type: application/vnd.astraea-software.iota
+extensions:
+    - iota
+registered: true

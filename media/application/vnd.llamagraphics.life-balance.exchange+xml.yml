@@ -1,0 +1,5 @@
+type: application/vnd.llamagraphics.life-balance.exchange+xml
+extensions:
+    - lbe
+format: text/xml
+registered: true

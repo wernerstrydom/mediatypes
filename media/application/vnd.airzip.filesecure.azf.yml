@@ -1,0 +1,4 @@
+type: application/vnd.airzip.filesecure.azf
+extensions:
+    - azf
+registered: true

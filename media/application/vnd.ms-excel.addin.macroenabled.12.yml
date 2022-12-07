@@ -1,0 +1,4 @@
+type: application/vnd.ms-excel.addin.macroEnabled.12
+extensions:
+    - xlam
+registered: true

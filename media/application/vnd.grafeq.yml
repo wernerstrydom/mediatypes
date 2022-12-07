@@ -1,0 +1,5 @@
+type: application/vnd.grafeq
+extensions:
+    - gqf
+    - gqs
+registered: true

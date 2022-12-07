@@ -1,0 +1,5 @@
+type: application/vnd.uoml+xml
+extensions:
+    - uoml
+format: text/xml
+registered: true

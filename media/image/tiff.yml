@@ -1,0 +1,5 @@
+type: image/tiff
+extensions:
+    - tiff
+    - tif
+registered: true

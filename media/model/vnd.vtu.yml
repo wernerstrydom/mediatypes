@@ -1,0 +1,4 @@
+type: model/vnd.vtu
+extensions:
+    - vtu
+registered: true

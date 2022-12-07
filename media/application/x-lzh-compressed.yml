@@ -1,0 +1,4 @@
+type: application/x-lzh-compressed
+extensions:
+    - lzh
+    - lha

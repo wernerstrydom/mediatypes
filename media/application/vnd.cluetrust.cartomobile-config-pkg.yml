@@ -1,0 +1,4 @@
+type: application/vnd.cluetrust.cartomobile-config-pkg
+extensions:
+    - c11amz
+registered: true

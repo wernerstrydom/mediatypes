@@ -1,0 +1,4 @@
+type: application/vnd.dvb.ait
+extensions:
+    - ait
+registered: true

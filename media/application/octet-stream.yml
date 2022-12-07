@@ -1,0 +1,38 @@
+type: application/octet-stream
+extensions:
+    - bin
+    - dms
+    - lrf
+    - mar
+    - so
+    - dist
+    - distz
+    - pkg
+    - bpk
+    - dump
+    - elc
+    - a
+    - arc
+    - arj
+    - com
+    - exe
+    - lha
+    - lhx
+    - lzh
+    - lzx
+    - o
+    - psd
+    - saveme
+    - uu
+    - zoo
+    - class
+    - buffer
+    - deploy
+    - hqx
+    - obj
+    - lib
+    - zip
+    - gz
+    - dmg
+    - iso
+registered: true

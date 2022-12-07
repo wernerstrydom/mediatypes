@@ -1,0 +1,5 @@
+type: application/sru+xml
+extensions:
+    - sru
+format: text/xml
+registered: true

@@ -1,0 +1,34 @@
+type: text/plain
+extensions:
+    - txt
+    - text
+    - conf
+    - def
+    - list
+    - log
+    - c
+    - c++
+    - cc
+    - com
+    - cxx
+    - f
+    - f90
+    - for
+    - g
+    - h
+    - hh
+    - idc
+    - jav
+    - java
+    - lst
+    - m
+    - mar
+    - pl
+    - sdml
+    - bas
+    - in
+    - asc
+    - diff
+    - pot
+    - el
+    - ksh

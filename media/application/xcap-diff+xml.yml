@@ -1,0 +1,5 @@
+type: application/xcap-diff+xml
+extensions:
+    - xdf
+format: text/xml
+registered: true

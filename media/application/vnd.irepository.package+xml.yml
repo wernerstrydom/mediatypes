@@ -1,0 +1,5 @@
+type: application/vnd.irepository.package+xml
+extensions:
+    - irp
+format: text/xml
+registered: true

@@ -1,0 +1,14 @@
+type: application/excel
+extensions:
+    - xl
+    - xla
+    - xlb
+    - xlc
+    - xld
+    - xlk
+    - xll
+    - xlm
+    - xls
+    - xlt
+    - xlv
+    - xlw

@@ -1,0 +1,4 @@
+type: application/cdmi-container
+extensions:
+    - cdmic
+registered: true

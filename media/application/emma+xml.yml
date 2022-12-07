@@ -1,0 +1,5 @@
+type: application/emma+xml
+extensions:
+    - emma
+format: text/xml
+registered: true

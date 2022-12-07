@@ -1,0 +1,3 @@
+type: audio/s3m
+extensions:
+    - s3m

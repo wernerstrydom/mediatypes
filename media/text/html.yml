@@ -1,0 +1,10 @@
+type: text/html
+extensions:
+    - html
+    - acgi
+    - htm
+    - htmls
+    - htx
+    - shtml
+    - stm
+registered: true

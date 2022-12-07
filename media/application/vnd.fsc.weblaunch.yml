@@ -1,0 +1,4 @@
+type: application/vnd.fsc.weblaunch
+extensions:
+    - fsc
+registered: true

@@ -1,0 +1,4 @@
+type: application/vnd.medcalcdata
+extensions:
+    - mc1
+registered: true

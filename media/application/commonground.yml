@@ -1,0 +1,4 @@
+type: application/commonground
+extensions:
+    - dp
+registered: true

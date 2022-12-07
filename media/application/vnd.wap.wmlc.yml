@@ -1,0 +1,4 @@
+type: application/vnd.wap.wmlc
+extensions:
+    - wmlc
+registered: true

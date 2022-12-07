@@ -1,0 +1,7 @@
+type: application/vnd.ms-works
+extensions:
+    - wps
+    - wks
+    - wcm
+    - wdb
+registered: true

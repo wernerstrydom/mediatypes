@@ -1,0 +1,8 @@
+type: application/vnd.ms-powerpoint
+extensions:
+    - ppt
+    - pps
+    - pot
+    - ppa
+    - pwz
+registered: true

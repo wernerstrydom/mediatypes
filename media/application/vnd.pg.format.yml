@@ -1,0 +1,4 @@
+type: application/vnd.pg.format
+extensions:
+    - str
+registered: true

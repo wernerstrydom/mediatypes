@@ -1,0 +1,5 @@
+type: video/vnd.dece.mobile
+extensions:
+    - uvm
+    - uvvm
+registered: true

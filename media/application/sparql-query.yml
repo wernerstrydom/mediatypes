@@ -1,0 +1,4 @@
+type: application/sparql-query
+extensions:
+    - rq
+registered: true

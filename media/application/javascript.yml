@@ -1,0 +1,4 @@
+type: application/javascript
+extensions:
+    - js
+registered: true

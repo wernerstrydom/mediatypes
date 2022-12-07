@@ -1,0 +1,7 @@
+type: message/rfc822
+extensions:
+    - eml
+    - mht
+    - mhtml
+    - mime
+    - nws

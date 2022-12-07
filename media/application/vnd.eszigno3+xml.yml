@@ -1,0 +1,6 @@
+type: application/vnd.eszigno3+xml
+extensions:
+    - es3
+    - et3
+format: text/xml
+registered: true

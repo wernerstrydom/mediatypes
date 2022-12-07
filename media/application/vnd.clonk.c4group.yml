@@ -1,0 +1,8 @@
+type: application/vnd.clonk.c4group
+extensions:
+    - c4g
+    - c4d
+    - c4f
+    - c4p
+    - c4u
+registered: true

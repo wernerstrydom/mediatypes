@@ -1,0 +1,4 @@
+type: application/vnd.neurolanguage.nlu
+extensions:
+    - nlu
+registered: true

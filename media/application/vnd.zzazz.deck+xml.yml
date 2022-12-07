@@ -1,0 +1,5 @@
+type: application/vnd.zzazz.deck+xml
+extensions:
+    - zaz
+format: text/xml
+registered: true

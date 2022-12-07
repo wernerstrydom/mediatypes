@@ -1,0 +1,5 @@
+type: application/metalink4+xml
+extensions:
+    - meta4
+format: text/xml
+registered: true

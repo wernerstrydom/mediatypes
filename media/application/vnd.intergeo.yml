@@ -1,0 +1,4 @@
+type: application/vnd.intergeo
+extensions:
+    - i2g
+registered: true

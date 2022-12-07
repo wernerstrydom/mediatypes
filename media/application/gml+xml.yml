@@ -1,0 +1,5 @@
+type: application/gml+xml
+extensions:
+    - gml
+format: text/xml
+registered: true

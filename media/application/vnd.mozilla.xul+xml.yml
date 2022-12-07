@@ -1,0 +1,5 @@
+type: application/vnd.mozilla.xul+xml
+extensions:
+    - xul
+format: text/xml
+registered: true

@@ -1,0 +1,6 @@
+type: application/ecmascript
+extensions:
+    - es
+    - ecma
+    - js
+registered: true

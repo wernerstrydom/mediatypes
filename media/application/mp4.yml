@@ -1,0 +1,6 @@
+type: application/mp4
+extensions:
+    - mp4
+    - m4p
+    - mp4s
+registered: true

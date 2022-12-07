@@ -1,0 +1,7 @@
+type: text/x-c++src
+extensions:
+    - c++
+    - cpp
+    - cxx
+    - cc
+format: text/plain

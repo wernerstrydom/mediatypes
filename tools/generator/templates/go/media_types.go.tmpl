@@ -1,0 +1,162 @@
+package {{ .PackageName }}
+
+
+// MediaType represents a media type.
+type MediaType struct {
+  // Name is the media type such as "text/plain" or "application/json".
+  name       string
+
+  // Extensions is a list of file extensions that are associated with this media type.
+  extensions []string
+
+  // Format is the format of the media type such as "application/json" or
+  // "application/xml", or empty if unknown.
+  format     string
+
+  // Registered returns true if the media type is registered with IANA.
+  registered bool
+}
+
+// String returns the media type as a string.
+func (m *MediaType) String() string {
+  return m.name
+}
+
+// Name returns the media type name.
+func (m *MediaType) Name() string {
+  return m.name
+}
+
+// Format returns the media type format.
+func (m *MediaType) Format() string {
+  return m.format
+}
+
+// Extensions returns a list of file extensions that are associated with this media type.
+func (m *MediaType) Extensions() []string {
+  return m.extensions
+}
+
+// Registered returns true if the media type is registered with IANA.
+func (m *MediaType) Registered() bool {
+  return m.registered
+}
+
+// ByName returns the media type with the given name.
+func ByName(name string) *MediaType {
+  for _, m := range mediaTypes {
+    if m.name == name {
+      return &m
+    }
+  }
+  return nil
+}
+
+// ByExtension returns the media type with the given file extension.
+func ByExtension(ext string) []*MediaType {
+  var result []*MediaType
+  for _, m := range mediaTypes {
+    for _, e := range m.extensions {
+      if e == ext {
+        result = append(result, &m)
+      }
+    }
+  }
+  return result
+}
+
+// All returns a list of all media types.
+func All() []*MediaType {
+  var result []*MediaType
+  for _, m := range mediaTypes {
+    result = append(result, &m)
+  }
+  return result
+}
+
+// Registered returns a list of all registered media types.
+func Registered() []*MediaType {
+  var result []*MediaType
+  for _, m := range mediaTypes {
+    if m.registered {
+      result = append(result, &m)
+    }
+  }
+  return result
+}
+
+// Unregistered returns a list of all unregistered media types.
+func Unregistered() []*MediaType {
+  var result []*MediaType
+  for _, m := range mediaTypes {
+    if !m.registered {
+      result = append(result, &m)
+    }
+  }
+  return result
+}
+
+// Formats returns a list of all media type formats.
+func Formats() []string {
+  var result []string
+  for _, m := range mediaTypes {
+    if m.format != "" {
+      result = append(result, m.format)
+    }
+  }
+  return result
+}
+
+// Extensions returns a list of all media type extensions.
+func Extensions() []string {
+  var result []string
+  for _, m := range mediaTypes {
+    result = append(result, m.extensions...)
+  }
+  return result
+}
+
+// Names returns a list of all media type names.
+func Names() []string {
+  var result []string
+  for _, m := range mediaTypes {
+    result = append(result, m.name)
+  }
+  return result
+}
+
+// IsRegistered returns true if the media type is registered with IANA.
+func IsRegistered(name string) bool {
+  m := ByName(name)
+  if m == nil {
+    return false
+  }
+  return m.registered
+}
+
+// IsUnregistered returns true if the media type is not registered with IANA.
+func IsUnregistered(name string) bool {
+  m := ByName(name)
+  if m == nil {
+    return false
+  }
+  return !m.registered
+}
+
+
+// mediaTypes returns a list of all media types.
+var mediaTypes = []MediaType{
+{{- range .MediaTypes }}
+  {
+    name: "{{.Type}}",
+    {{- if .Format }}
+    format: "{{.Format}}",{{ end }}
+    registered: {{.Registered}},
+    {{- if .Extensions }}
+    extensions: []string{
+      {{range .Extensions}}"{{.}}",{{end}}
+    },
+    {{- end }}
+  },
+{{- end }}
+}

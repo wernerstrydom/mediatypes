@@ -1,0 +1,4 @@
+type: application/x-pkcs12
+extensions:
+    - p12
+    - pfx

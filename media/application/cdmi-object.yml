@@ -1,0 +1,4 @@
+type: application/cdmi-object
+extensions:
+    - cdmio
+registered: true

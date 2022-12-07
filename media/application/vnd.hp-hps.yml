@@ -1,0 +1,4 @@
+type: application/vnd.hp-hps
+extensions:
+    - hps
+registered: true

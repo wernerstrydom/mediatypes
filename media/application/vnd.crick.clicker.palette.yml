@@ -1,0 +1,4 @@
+type: application/vnd.crick.clicker.palette
+extensions:
+    - clkp
+registered: true

@@ -1,0 +1,4 @@
+type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+extensions:
+    - docx
+registered: true

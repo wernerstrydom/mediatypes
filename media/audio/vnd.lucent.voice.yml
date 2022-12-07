@@ -1,0 +1,4 @@
+type: audio/vnd.lucent.voice
+extensions:
+    - lvp
+registered: true

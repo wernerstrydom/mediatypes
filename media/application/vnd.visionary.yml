@@ -1,0 +1,4 @@
+type: application/vnd.visionary
+extensions:
+    - vis
+registered: true

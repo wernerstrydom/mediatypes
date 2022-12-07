@@ -1,0 +1,5 @@
+type: application/vnd.oma.dd2+xml
+extensions:
+    - dd2
+format: text/xml
+registered: true

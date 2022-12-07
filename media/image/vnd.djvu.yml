@@ -1,0 +1,5 @@
+type: image/vnd.djvu
+extensions:
+    - djvu
+    - djv
+registered: true

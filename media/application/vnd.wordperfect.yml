@@ -1,0 +1,4 @@
+type: application/vnd.wordperfect
+extensions:
+    - wpd
+registered: true

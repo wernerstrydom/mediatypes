@@ -1,0 +1,4 @@
+type: application/wordperfect5.1
+extensions:
+    - wp5
+registered: true

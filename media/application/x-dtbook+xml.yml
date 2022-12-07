@@ -1,0 +1,4 @@
+type: application/x-dtbook+xml
+extensions:
+    - dtb
+format: text/xml

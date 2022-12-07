@@ -1,0 +1,5 @@
+type: application/sparql-results+xml
+extensions:
+    - srx
+format: text/xml
+registered: true

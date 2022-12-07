@@ -1,0 +1,4 @@
+type: application/vnd.oasis.opendocument.formula
+extensions:
+    - odf
+registered: true

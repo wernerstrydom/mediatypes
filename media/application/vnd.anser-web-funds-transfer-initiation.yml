@@ -1,0 +1,3 @@
+type: application/vnd.anser-web-funds-transfer-initiation
+extensions:
+    - fti

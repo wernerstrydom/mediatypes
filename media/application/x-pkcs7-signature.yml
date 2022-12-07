@@ -1,0 +1,4 @@
+type: application/x-pkcs7-signature
+extensions:
+    - p7a
+    - p7s

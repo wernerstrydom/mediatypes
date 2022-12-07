@@ -1,0 +1,5 @@
+type: application/x-visio
+extensions:
+    - vsd
+    - vst
+    - vsw

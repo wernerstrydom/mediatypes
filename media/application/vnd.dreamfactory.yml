@@ -1,0 +1,4 @@
+type: application/vnd.dreamfactory
+extensions:
+    - dfac
+registered: true

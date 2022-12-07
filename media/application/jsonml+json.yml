@@ -1,0 +1,4 @@
+type: application/jsonml+json
+extensions:
+    - jsonml
+format: application/json

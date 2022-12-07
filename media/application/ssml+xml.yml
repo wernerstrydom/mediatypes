@@ -1,0 +1,5 @@
+type: application/ssml+xml
+extensions:
+    - ssml
+format: text/xml
+registered: true

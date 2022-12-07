@@ -1,0 +1,6 @@
+type: application/x-koan
+extensions:
+    - skd
+    - skm
+    - skp
+    - skt

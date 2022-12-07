@@ -1,0 +1,5 @@
+type: application/epub+zip
+extensions:
+    - epub
+format: application/zip
+registered: true

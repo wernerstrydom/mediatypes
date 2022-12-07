@@ -1,0 +1,5 @@
+type: application/mads+xml
+extensions:
+    - mads
+format: text/xml
+registered: true

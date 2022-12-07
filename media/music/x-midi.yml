@@ -1,0 +1,4 @@
+type: music/x-midi
+extensions:
+    - mid
+    - midi

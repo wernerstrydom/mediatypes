@@ -1,0 +1,6 @@
+type: application/xml
+extensions:
+    - xml
+    - xsl
+    - xpdl
+registered: true

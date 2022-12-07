@@ -1,0 +1,4 @@
+type: application/vnd.lotus-organizer
+extensions:
+    - org
+registered: true

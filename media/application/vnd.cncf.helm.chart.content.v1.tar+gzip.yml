@@ -1,0 +1,3 @@
+type: application/vnd.cncf.helm.chart.content.v1.tar+gzip
+format: application/x-gzip
+registered: true

@@ -1,0 +1,4 @@
+type: application/base64
+extensions:
+    - mm
+    - mme

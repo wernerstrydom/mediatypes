@@ -1,0 +1,5 @@
+type: application/yin+xml
+extensions:
+    - yin
+format: text/xml
+registered: true

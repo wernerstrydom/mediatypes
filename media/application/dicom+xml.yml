@@ -1,0 +1,3 @@
+type: application/dicom+xml
+format: text/xml
+registered: true

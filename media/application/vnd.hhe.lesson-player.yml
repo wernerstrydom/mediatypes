@@ -1,0 +1,4 @@
+type: application/vnd.hhe.lesson-player
+extensions:
+    - les
+registered: true

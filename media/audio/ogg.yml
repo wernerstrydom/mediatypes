@@ -1,0 +1,6 @@
+type: audio/ogg
+extensions:
+    - oga
+    - ogg
+    - spx
+registered: true

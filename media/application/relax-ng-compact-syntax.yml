@@ -1,0 +1,4 @@
+type: application/relax-ng-compact-syntax
+extensions:
+    - rnc
+registered: true

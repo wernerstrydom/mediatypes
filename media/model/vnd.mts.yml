@@ -1,0 +1,4 @@
+type: model/vnd.mts
+extensions:
+    - mts
+registered: true

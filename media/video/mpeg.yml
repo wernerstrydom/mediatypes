@@ -1,0 +1,11 @@
+type: video/mpeg
+extensions:
+    - mpeg
+    - mpg
+    - mpe
+    - m1v
+    - m2v
+    - mp2
+    - mp3
+    - mpa
+    - mpv2

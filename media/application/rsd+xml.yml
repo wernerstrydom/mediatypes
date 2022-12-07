@@ -1,0 +1,4 @@
+type: application/rsd+xml
+extensions:
+    - rsd
+format: text/xml

@@ -1,0 +1,4 @@
+type: application/vnd.mfmp
+extensions:
+    - mfm
+registered: true

@@ -1,0 +1,4 @@
+type: audio/prs.sid
+extensions:
+    - sid
+registered: true

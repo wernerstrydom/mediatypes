@@ -1,0 +1,4 @@
+type: application/x-web-app-manifest+json
+extensions:
+    - webapp
+format: application/json

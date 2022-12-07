@@ -1,0 +1,6 @@
+type: application/wordperfect
+extensions:
+    - wp
+    - wp5
+    - wp6
+    - wpd

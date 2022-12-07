@@ -1,0 +1,5 @@
+type: audio/x-pn-realaudio-plugin
+extensions:
+    - rmp
+    - ra
+    - rpm

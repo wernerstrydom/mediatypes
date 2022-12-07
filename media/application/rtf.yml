@@ -1,0 +1,5 @@
+type: application/rtf
+extensions:
+    - rtf
+    - rtx
+registered: true

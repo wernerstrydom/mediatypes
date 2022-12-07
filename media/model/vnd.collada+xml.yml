@@ -1,0 +1,5 @@
+type: model/vnd.collada+xml
+extensions:
+    - dae
+format: text/xml
+registered: true

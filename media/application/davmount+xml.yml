@@ -1,0 +1,5 @@
+type: application/davmount+xml
+extensions:
+    - davmount
+format: text/xml
+registered: true

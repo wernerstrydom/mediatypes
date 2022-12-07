@@ -1,0 +1,6 @@
+type: application/msonenote
+extensions:
+    - one
+    - onetoc2
+    - onetmp
+    - onepkg

@@ -1,0 +1,6 @@
+type: application/smil+xml
+extensions:
+    - smi
+    - smil
+format: text/xml
+registered: true

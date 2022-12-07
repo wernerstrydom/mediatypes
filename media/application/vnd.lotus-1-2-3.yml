@@ -1,0 +1,4 @@
+type: application/vnd.lotus-1-2-3
+extensions:
+    - "123"
+registered: true

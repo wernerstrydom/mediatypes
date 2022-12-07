@@ -1,0 +1,5 @@
+type: application/vnd.adobe.xdp+xml
+extensions:
+    - xdp
+format: text/xml
+registered: true

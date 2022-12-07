@@ -1,0 +1,4 @@
+type: application/dssc+der
+extensions:
+    - dssc
+registered: true

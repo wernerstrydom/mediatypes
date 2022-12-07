@@ -1,0 +1,5 @@
+type: application/x-bsh
+extensions:
+    - bsh
+    - sh
+    - shar

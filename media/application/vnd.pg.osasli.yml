@@ -1,0 +1,4 @@
+type: application/vnd.pg.osasli
+extensions:
+    - ei6
+registered: true

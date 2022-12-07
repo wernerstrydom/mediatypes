@@ -1,0 +1,4 @@
+type: application/vnd.ibm.rights-management
+extensions:
+    - irm
+registered: true

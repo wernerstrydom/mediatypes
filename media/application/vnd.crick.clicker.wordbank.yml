@@ -1,0 +1,4 @@
+type: application/vnd.crick.clicker.wordbank
+extensions:
+    - clkw
+registered: true

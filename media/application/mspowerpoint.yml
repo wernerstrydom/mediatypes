@@ -1,0 +1,6 @@
+type: application/mspowerpoint
+extensions:
+    - pot
+    - pps
+    - ppt
+    - ppz

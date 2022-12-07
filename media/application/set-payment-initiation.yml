@@ -1,0 +1,4 @@
+type: application/set-payment-initiation
+extensions:
+    - setpay
+registered: true

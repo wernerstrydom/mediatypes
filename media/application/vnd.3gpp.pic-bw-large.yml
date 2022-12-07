@@ -1,0 +1,4 @@
+type: application/vnd.3gpp.pic-bw-large
+extensions:
+    - plb
+registered: true

@@ -1,0 +1,5 @@
+type: application/atomsvc+xml
+extensions:
+    - atomsvc
+format: text/xml
+registered: true

@@ -1,0 +1,5 @@
+type: application/vnd.xara
+extensions:
+    - xar
+    - web
+registered: true

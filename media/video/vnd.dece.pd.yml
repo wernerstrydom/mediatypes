@@ -1,0 +1,5 @@
+type: video/vnd.dece.pd
+extensions:
+    - uvp
+    - uvvp
+registered: true

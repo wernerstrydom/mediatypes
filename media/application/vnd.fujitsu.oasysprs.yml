@@ -1,0 +1,4 @@
+type: application/vnd.fujitsu.oasysprs
+extensions:
+    - bh2
+registered: true

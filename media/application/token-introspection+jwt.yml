@@ -1,0 +1,3 @@
+type: application/token-introspection+jwt
+format: application/jwt
+registered: true

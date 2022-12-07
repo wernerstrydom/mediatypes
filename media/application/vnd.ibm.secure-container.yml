@@ -1,0 +1,4 @@
+type: application/vnd.ibm.secure-container
+extensions:
+    - sc
+registered: true

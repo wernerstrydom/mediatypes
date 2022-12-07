@@ -1,0 +1,7 @@
+type: application/vnd.framemaker
+extensions:
+    - fm
+    - frame
+    - maker
+    - book
+registered: true

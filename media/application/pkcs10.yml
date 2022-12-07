@@ -1,0 +1,4 @@
+type: application/pkcs10
+extensions:
+    - p10
+registered: true

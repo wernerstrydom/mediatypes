@@ -1,0 +1,4 @@
+type: audio/vnd.dts.hd
+extensions:
+    - dtshd
+registered: true

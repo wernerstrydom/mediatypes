@@ -1,0 +1,3 @@
+type: application/taxii+json
+format: application/json
+registered: true

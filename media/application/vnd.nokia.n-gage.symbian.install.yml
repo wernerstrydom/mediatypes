@@ -1,0 +1,4 @@
+type: application/vnd.nokia.n-gage.symbian.install
+extensions:
+    - n-gage
+registered: true

@@ -1,0 +1,4 @@
+type: application/pkcs8
+extensions:
+    - p8
+registered: true

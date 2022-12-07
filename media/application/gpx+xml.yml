@@ -1,0 +1,4 @@
+type: application/gpx+xml
+extensions:
+    - gpx
+format: text/xml

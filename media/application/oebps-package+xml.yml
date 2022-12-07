@@ -1,0 +1,5 @@
+type: application/oebps-package+xml
+extensions:
+    - opf
+format: text/xml
+registered: true

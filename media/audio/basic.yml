@@ -1,0 +1,5 @@
+type: audio/basic
+extensions:
+    - au
+    - snd
+registered: true

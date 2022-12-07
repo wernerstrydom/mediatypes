@@ -1,0 +1,4 @@
+type: text/tab-separated-values
+extensions:
+    - tsv
+registered: true

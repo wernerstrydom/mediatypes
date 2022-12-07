@@ -1,0 +1,3 @@
+type: text/comma-separated-values
+extensions:
+    - csv

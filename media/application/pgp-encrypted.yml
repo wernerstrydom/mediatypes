@@ -1,0 +1,4 @@
+type: application/pgp-encrypted
+extensions:
+    - pgp
+registered: true

@@ -1,0 +1,5 @@
+type: image/bmp
+extensions:
+    - bmp
+    - bm
+registered: true

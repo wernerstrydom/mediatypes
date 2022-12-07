@@ -1,0 +1,7 @@
+type: image/vnd.dece.graphic
+extensions:
+    - uvi
+    - uvvi
+    - uvg
+    - uvvg
+registered: true

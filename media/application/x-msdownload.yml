@@ -1,0 +1,7 @@
+type: application/x-msdownload
+extensions:
+    - exe
+    - dll
+    - com
+    - bat
+    - msi

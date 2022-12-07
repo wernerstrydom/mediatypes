@@ -1,0 +1,4 @@
+type: application/sdp
+extensions:
+    - sdp
+registered: true

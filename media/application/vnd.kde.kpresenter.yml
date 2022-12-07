@@ -1,0 +1,5 @@
+type: application/vnd.kde.kpresenter
+extensions:
+    - kpr
+    - kpt
+registered: true

@@ -1,0 +1,5 @@
+type: application/mets+xml
+extensions:
+    - mets
+format: text/xml
+registered: true

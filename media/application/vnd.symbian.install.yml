@@ -1,0 +1,4 @@
+type: application/vnd.symbian.install
+extensions:
+    - sis
+    - sisx

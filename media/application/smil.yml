@@ -1,0 +1,5 @@
+type: application/smil
+extensions:
+    - smi
+    - smil
+registered: true

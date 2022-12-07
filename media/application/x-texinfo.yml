@@ -1,0 +1,4 @@
+type: application/x-texinfo
+extensions:
+    - texinfo
+    - texi

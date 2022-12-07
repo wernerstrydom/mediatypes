@@ -1,0 +1,4 @@
+type: application/docbook+xml
+extensions:
+    - dbk
+format: text/xml

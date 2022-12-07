@@ -1,0 +1,4 @@
+type: video/vnd.dvb.file
+extensions:
+    - dvb
+registered: true

@@ -1,0 +1,4 @@
+type: application/vnd.recordare.musicxml
+extensions:
+    - mxl
+registered: true

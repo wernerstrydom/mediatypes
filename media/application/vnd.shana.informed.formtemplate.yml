@@ -1,0 +1,4 @@
+type: application/vnd.shana.informed.formtemplate
+extensions:
+    - itp
+registered: true

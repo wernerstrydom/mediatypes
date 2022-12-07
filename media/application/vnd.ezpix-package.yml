@@ -1,0 +1,4 @@
+type: application/vnd.ezpix-package
+extensions:
+    - ez3
+registered: true

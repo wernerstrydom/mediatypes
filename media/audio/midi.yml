@@ -1,0 +1,6 @@
+type: audio/midi
+extensions:
+    - mid
+    - midi
+    - kar
+    - rmi

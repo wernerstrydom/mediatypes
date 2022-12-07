@@ -1,0 +1,5 @@
+type: audio/mp4
+extensions:
+    - mp4a
+    - m4a
+registered: true

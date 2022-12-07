@@ -1,0 +1,6 @@
+type: application/tei+xml
+extensions:
+    - tei
+    - teicorpus
+format: text/xml
+registered: true

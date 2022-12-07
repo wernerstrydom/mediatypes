@@ -1,0 +1,4 @@
+type: application/vnd.adobe.formscentral.fcdt
+extensions:
+    - fcdt
+registered: true

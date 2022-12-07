@@ -1,0 +1,4 @@
+type: chemical/x-pdb
+extensions:
+    - pdb
+    - xyz

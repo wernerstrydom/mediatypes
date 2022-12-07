@@ -1,0 +1,5 @@
+type: application/vnd.sus-calendar
+extensions:
+    - sus
+    - susp
+registered: true

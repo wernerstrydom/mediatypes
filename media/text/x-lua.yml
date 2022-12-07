@@ -1,0 +1,3 @@
+type: text/x-lua
+extensions:
+    - lua

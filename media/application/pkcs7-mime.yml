@@ -1,0 +1,5 @@
+type: application/pkcs7-mime
+extensions:
+    - p7m
+    - p7c
+registered: true

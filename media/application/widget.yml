@@ -1,0 +1,4 @@
+type: application/widget
+extensions:
+    - wgt
+registered: true

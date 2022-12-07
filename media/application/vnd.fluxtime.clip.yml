@@ -1,0 +1,4 @@
+type: application/vnd.fluxtime.clip
+extensions:
+    - ftc
+registered: true

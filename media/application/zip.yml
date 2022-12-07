@@ -1,0 +1,4 @@
+type: application/zip
+extensions:
+    - zip
+registered: true

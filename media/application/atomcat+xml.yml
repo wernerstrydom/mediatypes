@@ -1,0 +1,5 @@
+type: application/atomcat+xml
+extensions:
+    - atomcat
+format: text/xml
+registered: true

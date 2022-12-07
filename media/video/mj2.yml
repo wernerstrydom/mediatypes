@@ -1,0 +1,5 @@
+type: video/mj2
+extensions:
+    - mj2
+    - mjp2
+registered: true

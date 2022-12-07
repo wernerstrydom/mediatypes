@@ -1,0 +1,4 @@
+type: application/vnd.mophun.application
+extensions:
+    - mpn
+registered: true

@@ -1,0 +1,4 @@
+type: application/scvp-vp-request
+extensions:
+    - spq
+registered: true

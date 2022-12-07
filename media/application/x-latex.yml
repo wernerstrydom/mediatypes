@@ -1,0 +1,4 @@
+type: application/x-latex
+extensions:
+    - latex
+    - ltx

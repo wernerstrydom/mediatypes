@@ -1,0 +1,6 @@
+type: application/x-project
+extensions:
+    - mpc
+    - mpt
+    - mpv
+    - mpx

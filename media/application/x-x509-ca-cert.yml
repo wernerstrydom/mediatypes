@@ -1,0 +1,6 @@
+type: application/x-x509-ca-cert
+extensions:
+    - der
+    - cer
+    - crt
+registered: true

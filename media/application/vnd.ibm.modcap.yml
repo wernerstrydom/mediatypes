@@ -1,0 +1,6 @@
+type: application/vnd.ibm.modcap
+extensions:
+    - afp
+    - listafp
+    - list3820
+registered: true

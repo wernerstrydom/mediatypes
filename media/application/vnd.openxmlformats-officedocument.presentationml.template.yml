@@ -1,0 +1,4 @@
+type: application/vnd.openxmlformats-officedocument.presentationml.template
+extensions:
+    - potx
+registered: true

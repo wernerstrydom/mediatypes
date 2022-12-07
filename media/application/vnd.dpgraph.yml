@@ -1,0 +1,4 @@
+type: application/vnd.dpgraph
+extensions:
+    - dpg
+registered: true

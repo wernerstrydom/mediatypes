@@ -1,0 +1,4 @@
+type: application/vnd.bmi
+extensions:
+    - bmi
+registered: true

@@ -1,0 +1,4 @@
+type: application/vnd.hp-hpid
+extensions:
+    - hpid
+registered: true

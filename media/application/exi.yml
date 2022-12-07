@@ -1,0 +1,4 @@
+type: application/exi
+extensions:
+    - exi
+registered: true

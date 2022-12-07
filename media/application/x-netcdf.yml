@@ -1,0 +1,4 @@
+type: application/x-netcdf
+extensions:
+    - nc
+    - cdf

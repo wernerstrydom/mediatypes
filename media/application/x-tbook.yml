@@ -1,0 +1,4 @@
+type: application/x-tbook
+extensions:
+    - sbk
+    - tbk

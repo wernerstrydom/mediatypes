@@ -1,0 +1,4 @@
+type: application/vnd.noblenet-sealer
+extensions:
+    - nns
+registered: true

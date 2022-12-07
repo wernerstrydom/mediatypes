@@ -1,0 +1,5 @@
+type: application/x-troff
+extensions:
+    - roff
+    - t
+    - tr

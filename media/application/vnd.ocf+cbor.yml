@@ -1,0 +1,3 @@
+type: application/vnd.ocf+cbor
+format: application/cbor
+registered: true

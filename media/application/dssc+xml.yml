@@ -1,0 +1,5 @@
+type: application/dssc+xml
+extensions:
+    - xdssc
+format: text/xml
+registered: true

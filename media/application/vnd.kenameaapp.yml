@@ -1,0 +1,4 @@
+type: application/vnd.kenameaapp
+extensions:
+    - htke
+registered: true

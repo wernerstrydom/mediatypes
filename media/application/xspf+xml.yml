@@ -1,0 +1,4 @@
+type: application/xspf+xml
+extensions:
+    - xspf
+format: text/xml

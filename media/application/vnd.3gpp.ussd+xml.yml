@@ -1,0 +1,3 @@
+type: application/vnd.3gpp.ussd+xml
+format: text/xml
+registered: true

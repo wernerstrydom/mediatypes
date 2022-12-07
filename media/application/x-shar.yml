@@ -1,0 +1,4 @@
+type: application/x-shar
+extensions:
+    - shar
+    - sh

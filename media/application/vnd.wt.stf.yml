@@ -1,0 +1,4 @@
+type: application/vnd.wt.stf
+extensions:
+    - stf
+registered: true

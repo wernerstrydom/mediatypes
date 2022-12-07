@@ -1,0 +1,4 @@
+type: application/rpki-manifest
+extensions:
+    - mft
+registered: true

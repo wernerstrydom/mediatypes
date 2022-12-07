@@ -1,0 +1,4 @@
+type: application/vnd.ezpix-album
+extensions:
+    - ez2
+registered: true

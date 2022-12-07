@@ -1,0 +1,5 @@
+type: application/ogg
+extensions:
+    - ogx
+    - ogg
+registered: true

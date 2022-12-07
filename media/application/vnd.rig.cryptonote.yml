@@ -1,0 +1,4 @@
+type: application/vnd.rig.cryptonote
+extensions:
+    - cryptonote
+registered: true

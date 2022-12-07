@@ -1,0 +1,6 @@
+type: application/vnd.solent.sdkm+xml
+extensions:
+    - sdkm
+    - sdkd
+format: text/xml
+registered: true

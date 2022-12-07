@@ -1,0 +1,5 @@
+type: application/xenc+xml
+extensions:
+    - xenc
+format: text/xml
+registered: true

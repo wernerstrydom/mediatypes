@@ -1,0 +1,7 @@
+type: application/x-cbr
+extensions:
+    - cbr
+    - cba
+    - cbt
+    - cbz
+    - cb7

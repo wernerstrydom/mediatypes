@@ -1,0 +1,4 @@
+type: application/pkixcmp
+extensions:
+    - pki
+registered: true

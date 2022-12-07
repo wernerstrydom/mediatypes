@@ -1,0 +1,4 @@
+type: application/pdf
+extensions:
+    - pdf
+registered: true

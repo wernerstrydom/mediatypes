@@ -1,0 +1,4 @@
+type: application/vnd.insors.igm
+extensions:
+    - igm
+registered: true

@@ -1,0 +1,3 @@
+type: application/vnd.coreos.ignition+json
+format: application/json
+registered: true

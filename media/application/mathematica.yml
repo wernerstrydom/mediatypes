@@ -1,0 +1,6 @@
+type: application/mathematica
+extensions:
+    - ma
+    - nb
+    - mb
+registered: true

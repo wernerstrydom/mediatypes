@@ -1,0 +1,4 @@
+type: application/x-xliff+xml
+extensions:
+    - xlf
+format: text/xml

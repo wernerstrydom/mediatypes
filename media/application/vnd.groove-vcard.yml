@@ -1,0 +1,4 @@
+type: application/vnd.groove-vcard
+extensions:
+    - vcg
+registered: true

@@ -1,0 +1,3 @@
+type: application/vnd.cryptii.pipe+json
+format: application/json
+registered: true

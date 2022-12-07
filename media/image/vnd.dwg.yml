@@ -1,0 +1,6 @@
+type: image/vnd.dwg
+extensions:
+    - dwg
+    - dxf
+    - svf
+registered: true

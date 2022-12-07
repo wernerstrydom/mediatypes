@@ -1,0 +1,4 @@
+type: application/vnd.aristanetworks.swi
+extensions:
+    - swi
+registered: true

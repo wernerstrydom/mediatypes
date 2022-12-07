@@ -1,0 +1,4 @@
+type: application/vnd.osgi.dp
+extensions:
+    - dp
+registered: true

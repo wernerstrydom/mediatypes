@@ -1,0 +1,4 @@
+type: application/vnd.shana.informed.interchange
+extensions:
+    - iif
+registered: true

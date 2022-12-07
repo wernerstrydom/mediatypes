@@ -1,0 +1,4 @@
+type: application/scvp-cv-request
+extensions:
+    - scq
+registered: true

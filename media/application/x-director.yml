@@ -1,0 +1,11 @@
+type: application/x-director
+extensions:
+    - dir
+    - dcr
+    - dxr
+    - cst
+    - cct
+    - cxt
+    - w3d
+    - fgd
+    - swa

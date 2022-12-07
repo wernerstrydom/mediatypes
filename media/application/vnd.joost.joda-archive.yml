@@ -1,0 +1,4 @@
+type: application/vnd.joost.joda-archive
+extensions:
+    - joda
+registered: true

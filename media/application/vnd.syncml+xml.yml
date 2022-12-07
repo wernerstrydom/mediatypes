@@ -1,0 +1,5 @@
+type: application/vnd.syncml+xml
+extensions:
+    - xsm
+format: text/xml
+registered: true

@@ -1,0 +1,4 @@
+type: application/vnd.fujixerox.docuworks.binder
+extensions:
+    - xbd
+registered: true

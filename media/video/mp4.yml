@@ -1,0 +1,6 @@
+type: video/mp4
+extensions:
+    - mp4
+    - mp4v
+    - mpg4
+registered: true

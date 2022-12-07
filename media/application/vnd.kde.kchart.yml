@@ -1,0 +1,4 @@
+type: application/vnd.kde.kchart
+extensions:
+    - chrt
+registered: true

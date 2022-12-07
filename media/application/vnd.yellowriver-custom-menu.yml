@@ -1,0 +1,4 @@
+type: application/vnd.yellowriver-custom-menu
+extensions:
+    - cmp
+registered: true

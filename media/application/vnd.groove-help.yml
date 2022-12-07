@@ -1,0 +1,4 @@
+type: application/vnd.groove-help
+extensions:
+    - ghf
+registered: true

@@ -1,0 +1,4 @@
+type: application/vnd.mynfc
+extensions:
+    - taglet
+registered: true

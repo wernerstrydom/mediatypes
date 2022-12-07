@@ -1,0 +1,4 @@
+type: application/vnd.seemail
+extensions:
+    - see
+registered: true

@@ -1,0 +1,4 @@
+type: application/rpki-roa
+extensions:
+    - roa
+registered: true

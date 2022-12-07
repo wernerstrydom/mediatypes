@@ -1,0 +1,4 @@
+type: application/vnd.pvi.ptid1
+extensions:
+    - ptid
+registered: true

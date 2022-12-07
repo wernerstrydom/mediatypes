@@ -1,0 +1,4 @@
+type: audio/vnd.nuera.ecelp4800
+extensions:
+    - ecelp4800
+registered: true

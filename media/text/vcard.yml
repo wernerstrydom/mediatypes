@@ -1,0 +1,4 @@
+type: text/vcard
+extensions:
+    - vcard
+registered: true

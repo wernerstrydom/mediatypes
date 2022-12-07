@@ -1,0 +1,4 @@
+type: application/xproc+xml
+extensions:
+    - xpl
+format: text/xml

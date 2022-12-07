@@ -1,0 +1,5 @@
+type: application/vnd.fdsn.seed
+extensions:
+    - seed
+    - dataless
+registered: true

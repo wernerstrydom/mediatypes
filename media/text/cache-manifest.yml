@@ -1,0 +1,5 @@
+type: text/cache-manifest
+extensions:
+    - appcache
+    - manifest
+registered: true

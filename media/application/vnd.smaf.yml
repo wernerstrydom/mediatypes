@@ -1,0 +1,4 @@
+type: application/vnd.smaf
+extensions:
+    - mmf
+registered: true

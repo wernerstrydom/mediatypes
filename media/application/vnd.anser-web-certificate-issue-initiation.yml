@@ -1,0 +1,4 @@
+type: application/vnd.anser-web-certificate-issue-initiation
+extensions:
+    - cii
+registered: true

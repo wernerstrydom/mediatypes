@@ -1,0 +1,7 @@
+type: application/vnd.koan
+extensions:
+    - skp
+    - skd
+    - skt
+    - skm
+registered: true

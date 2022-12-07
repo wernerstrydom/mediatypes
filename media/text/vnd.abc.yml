@@ -1,0 +1,4 @@
+type: text/vnd.abc
+extensions:
+    - abc
+registered: true

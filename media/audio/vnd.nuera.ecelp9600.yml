@@ -1,0 +1,4 @@
+type: audio/vnd.nuera.ecelp9600
+extensions:
+    - ecelp9600
+registered: true

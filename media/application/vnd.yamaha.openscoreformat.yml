@@ -1,0 +1,4 @@
+type: application/vnd.yamaha.openscoreformat
+extensions:
+    - osf
+registered: true

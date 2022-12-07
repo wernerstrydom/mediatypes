@@ -1,0 +1,4 @@
+type: application/oxps
+extensions:
+    - oxps
+registered: true

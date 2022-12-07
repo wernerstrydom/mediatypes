@@ -1,0 +1,4 @@
+type: application/pkcs7-signature
+extensions:
+    - p7s
+registered: true

@@ -1,0 +1,4 @@
+type: application/vnd.jisp
+extensions:
+    - jisp
+registered: true

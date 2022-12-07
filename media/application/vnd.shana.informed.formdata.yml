@@ -1,0 +1,4 @@
+type: application/vnd.shana.informed.formdata
+extensions:
+    - ifm
+registered: true

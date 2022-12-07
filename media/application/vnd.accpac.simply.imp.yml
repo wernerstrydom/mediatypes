@@ -1,0 +1,4 @@
+type: application/vnd.accpac.simply.imp
+extensions:
+    - imp
+registered: true

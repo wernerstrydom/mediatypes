@@ -1,0 +1,4 @@
+type: application/vnd.lotus-screencam
+extensions:
+    - scm
+registered: true

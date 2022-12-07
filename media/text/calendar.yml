@@ -1,0 +1,6 @@
+type: text/calendar
+extensions:
+    - ics
+    - ifb
+    - icz
+registered: true

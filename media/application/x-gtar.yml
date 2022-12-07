@@ -1,0 +1,5 @@
+type: application/x-gtar
+extensions:
+    - gtar
+    - tgz
+    - taz

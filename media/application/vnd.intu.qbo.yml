@@ -1,0 +1,4 @@
+type: application/vnd.intu.qbo
+extensions:
+    - qbo
+registered: true

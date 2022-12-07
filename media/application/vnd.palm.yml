@@ -1,0 +1,6 @@
+type: application/vnd.palm
+extensions:
+    - pdb
+    - pqa
+    - oprc
+registered: true

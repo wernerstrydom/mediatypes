@@ -1,0 +1,4 @@
+type: application/vnd.groove-tool-template
+extensions:
+    - tpl
+registered: true

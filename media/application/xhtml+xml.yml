@@ -1,0 +1,6 @@
+type: application/xhtml+xml
+extensions:
+    - xhtml
+    - xht
+format: text/xml
+registered: true

@@ -1,0 +1,6 @@
+type: application/vnd.dece.ttml+xml
+extensions:
+    - uvt
+    - uvvt
+format: text/xml
+registered: true

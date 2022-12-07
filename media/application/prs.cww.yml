@@ -1,0 +1,4 @@
+type: application/prs.cww
+extensions:
+    - cww
+registered: true

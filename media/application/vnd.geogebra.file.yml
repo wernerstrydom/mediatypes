@@ -1,0 +1,4 @@
+type: application/vnd.geogebra.file
+extensions:
+    - ggb
+registered: true

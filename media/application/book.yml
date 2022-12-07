@@ -1,0 +1,4 @@
+type: application/book
+extensions:
+    - boo
+    - book

@@ -1,0 +1,8 @@
+type: application/msword
+extensions:
+    - doc
+    - dot
+    - w6w
+    - wiz
+    - word
+registered: true

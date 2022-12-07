@@ -1,0 +1,5 @@
+type: application/xop+xml
+extensions:
+    - xop
+format: text/xml
+registered: true

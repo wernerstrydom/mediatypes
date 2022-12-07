@@ -1,0 +1,4 @@
+type: application/vnd.acucobol
+extensions:
+    - acu
+registered: true

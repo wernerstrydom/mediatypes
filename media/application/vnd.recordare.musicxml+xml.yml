@@ -1,0 +1,5 @@
+type: application/vnd.recordare.musicxml+xml
+extensions:
+    - musicxml
+format: text/xml
+registered: true

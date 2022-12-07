@@ -1,0 +1,5 @@
+type: application/vnd.kahootz
+extensions:
+    - ktz
+    - ktr
+registered: true

@@ -1,0 +1,6 @@
+type: application/x-authorware-bin
+extensions:
+    - aab
+    - x32
+    - u32
+    - vox

@@ -1,0 +1,4 @@
+type: application/vnd.epson.esf
+extensions:
+    - esf
+registered: true

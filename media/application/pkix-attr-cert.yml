@@ -1,0 +1,4 @@
+type: application/pkix-attr-cert
+extensions:
+    - ac
+registered: true

@@ -1,0 +1,4 @@
+type: application/metalink+xml
+extensions:
+    - metalink
+format: text/xml

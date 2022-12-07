@@ -1,0 +1,6 @@
+type: application/postscript
+extensions:
+    - ai
+    - eps
+    - ps
+registered: true

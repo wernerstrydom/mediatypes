@@ -1,0 +1,5 @@
+type: application/vnd.zul
+extensions:
+    - zir
+    - zirz
+registered: true

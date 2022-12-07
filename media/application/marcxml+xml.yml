@@ -1,0 +1,5 @@
+type: application/marcxml+xml
+extensions:
+    - mrcx
+format: text/xml
+registered: true

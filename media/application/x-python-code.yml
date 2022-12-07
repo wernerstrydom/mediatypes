@@ -1,0 +1,4 @@
+type: application/x-python-code
+extensions:
+    - pyc
+    - pyo

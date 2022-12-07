@@ -1,0 +1,4 @@
+type: application/x-dtbresource+xml
+extensions:
+    - res
+format: text/xml

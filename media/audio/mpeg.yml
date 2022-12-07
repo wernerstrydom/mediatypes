@@ -1,0 +1,13 @@
+type: audio/mpeg
+extensions:
+    - mpga
+    - mp2
+    - mp2a
+    - mp3
+    - m2a
+    - mpa
+    - mpg
+    - m3a
+    - mpega
+    - m4a
+registered: true

@@ -1,0 +1,3 @@
+type: application/vnd.emclient.accessrequest+xml
+format: text/xml
+registered: true

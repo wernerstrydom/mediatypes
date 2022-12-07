@@ -1,0 +1,4 @@
+type: application/vnd.data-vision.rdz
+extensions:
+    - rdz
+registered: true

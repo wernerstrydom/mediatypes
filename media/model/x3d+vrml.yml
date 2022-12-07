@@ -1,0 +1,4 @@
+type: model/x3d+vrml
+extensions:
+    - x3dv
+    - x3dvz

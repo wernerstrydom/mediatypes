@@ -1,0 +1,6 @@
+type: world/x-3dmf
+extensions:
+    - 3dm
+    - 3dmf
+    - qd3
+    - qd3d

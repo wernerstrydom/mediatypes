@@ -1,0 +1,5 @@
+type: application/wsdl+xml
+extensions:
+    - wsdl
+format: text/xml
+registered: true

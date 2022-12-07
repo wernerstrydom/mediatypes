@@ -1,0 +1,5 @@
+type: application/vnd.kde.kword
+extensions:
+    - kwd
+    - kwt
+registered: true

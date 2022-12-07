@@ -1,0 +1,3 @@
+type: application/vnd.cyclonedx+xml
+format: text/xml
+registered: true

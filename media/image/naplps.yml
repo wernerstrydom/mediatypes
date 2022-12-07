@@ -1,0 +1,5 @@
+type: image/naplps
+extensions:
+    - nap
+    - naplps
+registered: true

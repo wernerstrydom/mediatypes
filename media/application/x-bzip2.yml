@@ -1,0 +1,4 @@
+type: application/x-bzip2
+extensions:
+    - bz2
+    - boz

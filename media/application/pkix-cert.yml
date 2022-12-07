@@ -1,0 +1,5 @@
+type: application/pkix-cert
+extensions:
+    - cer
+    - crt
+registered: true

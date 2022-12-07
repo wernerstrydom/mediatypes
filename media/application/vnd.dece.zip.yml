@@ -1,0 +1,5 @@
+type: application/vnd.dece.zip
+extensions:
+    - uvz
+    - uvvz
+registered: true

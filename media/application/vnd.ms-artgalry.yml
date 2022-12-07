@@ -1,0 +1,4 @@
+type: application/vnd.ms-artgalry
+extensions:
+    - cil
+registered: true

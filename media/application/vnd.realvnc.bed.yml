@@ -1,0 +1,4 @@
+type: application/vnd.realvnc.bed
+extensions:
+    - bed
+registered: true

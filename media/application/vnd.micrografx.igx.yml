@@ -1,0 +1,4 @@
+type: application/vnd.micrografx.igx
+extensions:
+    - igx
+registered: true

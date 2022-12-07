@@ -1,0 +1,4 @@
+type: application/vnd.oasis.opendocument.graphics-template
+extensions:
+    - otg
+registered: true

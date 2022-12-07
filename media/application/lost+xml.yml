@@ -1,0 +1,5 @@
+type: application/lost+xml
+extensions:
+    - lostxml
+format: text/xml
+registered: true

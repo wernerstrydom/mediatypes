@@ -1,0 +1,6 @@
+type: model/x3d+xml
+extensions:
+    - x3d
+    - x3dz
+format: text/xml
+registered: true

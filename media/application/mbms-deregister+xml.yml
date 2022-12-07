@@ -1,0 +1,3 @@
+type: application/mbms-deregister+xml
+format: text/xml
+registered: true

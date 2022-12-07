@@ -1,0 +1,5 @@
+type: application/vnd.ufdl
+extensions:
+    - ufd
+    - ufdl
+registered: true

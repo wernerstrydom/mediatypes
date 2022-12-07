@@ -1,0 +1,4 @@
+type: audio/vnd.dts
+extensions:
+    - dts
+registered: true

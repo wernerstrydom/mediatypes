@@ -1,0 +1,9 @@
+type: world/x-vrml
+extensions:
+    - vrml
+    - wrl
+    - wrz
+    - flr
+    - xaf
+    - xof
+    - vrm

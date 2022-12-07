@@ -1,0 +1,4 @@
+type: application/yang
+extensions:
+    - yang
+registered: true

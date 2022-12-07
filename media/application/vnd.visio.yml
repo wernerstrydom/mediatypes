@@ -1,0 +1,7 @@
+type: application/vnd.visio
+extensions:
+    - vsd
+    - vst
+    - vss
+    - vsw
+registered: true

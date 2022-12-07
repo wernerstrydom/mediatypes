@@ -1,0 +1,4 @@
+type: application/vnd.ctc-posml
+extensions:
+    - pml
+registered: true

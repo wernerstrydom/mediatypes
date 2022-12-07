@@ -1,0 +1,4 @@
+type: application/vnd.oasis.opendocument.image-template
+extensions:
+    - oti
+registered: true

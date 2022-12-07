@@ -1,0 +1,4 @@
+type: application/set-registration-initiation
+extensions:
+    - setreg
+registered: true

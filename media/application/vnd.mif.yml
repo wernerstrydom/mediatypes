@@ -1,0 +1,4 @@
+type: application/vnd.mif
+extensions:
+    - mif
+registered: true

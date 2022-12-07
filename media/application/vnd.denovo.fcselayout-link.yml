@@ -1,0 +1,4 @@
+type: application/vnd.denovo.fcselayout-link
+extensions:
+    - fe_launch
+registered: true

@@ -1,0 +1,6 @@
+type: application/vnd.tcpdump.pcap
+extensions:
+    - pcap
+    - cap
+    - dmp
+registered: true

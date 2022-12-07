@@ -1,0 +1,5 @@
+type: application/vnd.nitf
+extensions:
+    - ntf
+    - nitf
+registered: true

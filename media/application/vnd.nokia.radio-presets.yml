@@ -1,0 +1,4 @@
+type: application/vnd.nokia.radio-presets
+extensions:
+    - rpss
+registered: true

@@ -1,0 +1,5 @@
+type: video/vnd.dece.video
+extensions:
+    - uvv
+    - uvvv
+registered: true

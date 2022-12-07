@@ -1,0 +1,5 @@
+type: application/vnd.ms-project
+extensions:
+    - mpp
+    - mpt
+registered: true

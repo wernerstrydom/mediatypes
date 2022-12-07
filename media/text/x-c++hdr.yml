@@ -1,0 +1,7 @@
+type: text/x-c++hdr
+extensions:
+    - h++
+    - hpp
+    - hxx
+    - hh
+format: text/plain

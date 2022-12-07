@@ -1,0 +1,4 @@
+type: application/vnd.hbci
+extensions:
+    - hbci
+registered: true

@@ -1,0 +1,4 @@
+type: application/vnd.noblenet-web
+extensions:
+    - nnw
+registered: true

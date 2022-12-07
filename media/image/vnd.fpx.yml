@@ -1,0 +1,5 @@
+type: image/vnd.fpx
+extensions:
+    - fpx
+    - fpix
+registered: true

@@ -1,0 +1,4 @@
+type: application/vnd.llamagraphics.life-balance.desktop
+extensions:
+    - lbd
+registered: true

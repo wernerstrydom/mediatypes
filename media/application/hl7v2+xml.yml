@@ -1,0 +1,3 @@
+type: application/hl7v2+xml
+format: text/xml
+registered: true

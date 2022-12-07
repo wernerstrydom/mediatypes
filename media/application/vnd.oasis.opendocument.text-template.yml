@@ -1,0 +1,4 @@
+type: application/vnd.oasis.opendocument.text-template
+extensions:
+    - ott
+registered: true

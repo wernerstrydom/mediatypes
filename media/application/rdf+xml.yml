@@ -1,0 +1,5 @@
+type: application/rdf+xml
+extensions:
+    - rdf
+format: text/xml
+registered: true

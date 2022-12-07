@@ -1,0 +1,5 @@
+type: application/shf+xml
+extensions:
+    - shf
+format: text/xml
+registered: true

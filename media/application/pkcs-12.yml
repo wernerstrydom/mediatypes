@@ -1,0 +1,3 @@
+type: application/pkcs-12
+extensions:
+    - p12

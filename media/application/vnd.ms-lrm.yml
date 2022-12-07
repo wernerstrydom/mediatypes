@@ -1,0 +1,4 @@
+type: application/vnd.ms-lrm
+extensions:
+    - lrm
+registered: true

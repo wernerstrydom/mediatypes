@@ -1,0 +1,5 @@
+type: model/vrml
+extensions:
+    - wrl
+    - vrml
+    - wrz

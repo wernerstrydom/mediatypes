@@ -1,0 +1,5 @@
+type: audio/vnd.dece.audio
+extensions:
+    - uva
+    - uvva
+registered: true

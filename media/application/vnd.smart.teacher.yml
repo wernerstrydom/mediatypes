@@ -1,0 +1,4 @@
+type: application/vnd.smart.teacher
+extensions:
+    - teacher
+registered: true

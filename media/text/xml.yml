@@ -1,0 +1,4 @@
+type: text/xml
+extensions:
+    - xml
+registered: true

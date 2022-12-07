@@ -1,0 +1,3 @@
+type: application/vnd.dvb.notif-ia-registration-response+xml
+format: text/xml
+registered: true

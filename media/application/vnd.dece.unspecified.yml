@@ -1,0 +1,5 @@
+type: application/vnd.dece.unspecified
+extensions:
+    - uvx
+    - uvvx
+registered: true

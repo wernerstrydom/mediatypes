@@ -1,0 +1,4 @@
+type: application/vnd.jcp.javame.midlet-rms
+extensions:
+    - rms
+registered: true

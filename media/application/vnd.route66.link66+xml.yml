@@ -1,0 +1,5 @@
+type: application/vnd.route66.link66+xml
+extensions:
+    - link66
+format: text/xml
+registered: true

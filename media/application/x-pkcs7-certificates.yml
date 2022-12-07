@@ -1,0 +1,4 @@
+type: application/x-pkcs7-certificates
+extensions:
+    - p7b
+    - spc

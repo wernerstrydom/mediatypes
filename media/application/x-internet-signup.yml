@@ -1,0 +1,4 @@
+type: application/x-internet-signup
+extensions:
+    - ins
+    - isp

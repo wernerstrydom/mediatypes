@@ -1,0 +1,4 @@
+type: application/vnd.uiq.theme
+extensions:
+    - utz
+registered: true

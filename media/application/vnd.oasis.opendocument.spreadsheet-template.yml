@@ -1,0 +1,4 @@
+type: application/vnd.oasis.opendocument.spreadsheet-template
+extensions:
+    - ots
+registered: true

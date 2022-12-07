@@ -1,0 +1,8 @@
+type: text/uri-list
+extensions:
+    - uri
+    - uris
+    - uni
+    - unis
+    - urls
+registered: true

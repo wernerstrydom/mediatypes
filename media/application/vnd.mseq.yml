@@ -1,0 +1,4 @@
+type: application/vnd.mseq
+extensions:
+    - mseq
+registered: true

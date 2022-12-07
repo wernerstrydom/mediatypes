@@ -1,0 +1,4 @@
+type: application/vnd.isac.fcs
+extensions:
+    - fcs
+registered: true

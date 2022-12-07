@@ -1,0 +1,6 @@
+type: application/x-msdos-program
+extensions:
+    - com
+    - exe
+    - bat
+    - dll

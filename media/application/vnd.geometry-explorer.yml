@@ -1,0 +1,5 @@
+type: application/vnd.geometry-explorer
+extensions:
+    - gex
+    - gre
+registered: true

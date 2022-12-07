@@ -1,0 +1,4 @@
+type: application/vnd.americandynamics.acc
+extensions:
+    - acc
+registered: true

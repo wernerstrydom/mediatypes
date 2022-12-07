@@ -1,0 +1,4 @@
+type: audio/vnd.nuera.ecelp7470
+extensions:
+    - ecelp7470
+registered: true

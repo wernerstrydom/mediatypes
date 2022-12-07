@@ -1,0 +1,4 @@
+type: application/vnd.is-xpr
+extensions:
+    - xpr
+registered: true

@@ -1,0 +1,5 @@
+type: application/vnd.oasis.opendocument.text-master
+extensions:
+    - odm
+    - otm
+registered: true

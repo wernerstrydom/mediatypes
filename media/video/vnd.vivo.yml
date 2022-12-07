@@ -1,0 +1,5 @@
+type: video/vnd.vivo
+extensions:
+    - viv
+    - vivo
+registered: true

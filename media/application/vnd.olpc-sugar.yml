@@ -1,0 +1,4 @@
+type: application/vnd.olpc-sugar
+extensions:
+    - xo
+registered: true

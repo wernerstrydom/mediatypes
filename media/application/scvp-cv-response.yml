@@ -1,0 +1,4 @@
+type: application/scvp-cv-response
+extensions:
+    - scs
+registered: true

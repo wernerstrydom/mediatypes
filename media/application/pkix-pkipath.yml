@@ -1,0 +1,4 @@
+type: application/pkix-pkipath
+extensions:
+    - pkipath
+registered: true

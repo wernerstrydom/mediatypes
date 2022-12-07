@@ -1,0 +1,4 @@
+type: audio/vnd.ms-playready.media.pya
+extensions:
+    - pya
+registered: true

@@ -1,0 +1,4 @@
+type: application/vnd.apple.mpegurl
+extensions:
+    - m3u8
+registered: true

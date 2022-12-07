@@ -1,0 +1,3 @@
+type: application/swid+cbor
+format: application/cbor
+registered: true

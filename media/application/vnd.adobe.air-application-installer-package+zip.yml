@@ -1,0 +1,4 @@
+type: application/vnd.adobe.air-application-installer-package+zip
+extensions:
+    - air
+format: application/zip

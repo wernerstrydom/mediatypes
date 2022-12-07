@@ -1,0 +1,5 @@
+type: application/vnd.las.las+xml
+extensions:
+    - lasxml
+format: text/xml
+registered: true

@@ -1,0 +1,4 @@
+type: application/vnd.micrografx.flo
+extensions:
+    - flo
+registered: true

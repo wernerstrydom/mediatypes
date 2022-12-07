@@ -1,0 +1,8 @@
+type: application/xv+xml
+extensions:
+    - mxml
+    - xhvml
+    - xvml
+    - xvm
+format: text/xml
+registered: true

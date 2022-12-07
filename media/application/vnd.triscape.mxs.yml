@@ -1,0 +1,4 @@
+type: application/vnd.triscape.mxs
+extensions:
+    - mxs
+registered: true

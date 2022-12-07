@@ -1,0 +1,5 @@
+type: application/mediaservercontrol+xml
+extensions:
+    - mscml
+format: text/xml
+registered: true

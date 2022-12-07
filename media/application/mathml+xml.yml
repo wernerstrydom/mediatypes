@@ -1,0 +1,5 @@
+type: application/mathml+xml
+extensions:
+    - mathml
+format: text/xml
+registered: true

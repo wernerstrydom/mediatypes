@@ -1,0 +1,4 @@
+type: application/vnd.sailingtracker.track
+extensions:
+    - st
+registered: true

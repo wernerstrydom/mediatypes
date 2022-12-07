@@ -1,0 +1,4 @@
+type: application/vnd.cosmocaller
+extensions:
+    - cmc
+registered: true

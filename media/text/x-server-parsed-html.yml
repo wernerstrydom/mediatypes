@@ -1,0 +1,4 @@
+type: text/x-server-parsed-html
+extensions:
+    - shtml
+    - ssi

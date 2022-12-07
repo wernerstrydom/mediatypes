@@ -1,0 +1,4 @@
+type: application/vnd.lotus-freelance
+extensions:
+    - pre
+registered: true

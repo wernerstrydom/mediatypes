@@ -1,0 +1,4 @@
+type: application/vnd.fujitsu.oasysgp
+extensions:
+    - fg5
+registered: true

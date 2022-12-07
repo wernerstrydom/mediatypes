@@ -1,0 +1,5 @@
+type: application/vnd.intercon.formnet
+extensions:
+    - xpw
+    - xpx
+registered: true

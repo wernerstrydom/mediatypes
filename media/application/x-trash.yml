@@ -1,0 +1,7 @@
+type: application/x-trash
+extensions:
+    - "~"
+    - '%'
+    - bak
+    - old
+    - sik

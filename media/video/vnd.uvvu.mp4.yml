@@ -1,0 +1,5 @@
+type: video/vnd.uvvu.mp4
+extensions:
+    - uvu
+    - uvvu
+registered: true

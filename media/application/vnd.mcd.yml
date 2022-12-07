@@ -1,0 +1,4 @@
+type: application/vnd.mcd
+extensions:
+    - mcd
+registered: true

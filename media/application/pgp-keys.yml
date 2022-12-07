@@ -1,0 +1,4 @@
+type: application/pgp-keys
+extensions:
+    - key
+registered: true

@@ -1,0 +1,6 @@
+type: application/x-compressed
+extensions:
+    - gz
+    - tgz
+    - z
+    - zip

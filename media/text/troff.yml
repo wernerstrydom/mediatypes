@@ -1,0 +1,9 @@
+type: text/troff
+extensions:
+    - t
+    - tr
+    - roff
+    - man
+    - me
+    - ms
+registered: true

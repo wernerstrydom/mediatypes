@@ -1,0 +1,4 @@
+type: application/vnd.yamaha.smaf-audio
+extensions:
+    - saf
+registered: true

@@ -1,0 +1,5 @@
+type: application/vnd.adobe.fxp
+extensions:
+    - fxp
+    - fxpl
+registered: true

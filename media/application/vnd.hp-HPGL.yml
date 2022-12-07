@@ -1,0 +1,5 @@
+type: application/vnd.hp-hpgl
+extensions:
+    - hgl
+    - hpg
+    - hpgl

@@ -1,0 +1,5 @@
+type: application/resource-lists-diff+xml
+extensions:
+    - rld
+format: text/xml
+registered: true

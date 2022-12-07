@@ -1,0 +1,6 @@
+type: application/pgp-signature
+extensions:
+    - asc
+    - pgp
+    - sig
+registered: true

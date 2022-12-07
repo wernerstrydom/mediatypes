@@ -1,0 +1,5 @@
+type: application/vnd.chemdraw+xml
+extensions:
+    - cdxml
+format: text/xml
+registered: true

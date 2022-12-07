@@ -1,0 +1,4 @@
+type: application/ssdl+xml
+extensions:
+    - ssdl
+format: text/xml

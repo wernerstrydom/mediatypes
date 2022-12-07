@@ -1,0 +1,4 @@
+type: application/vnd.semd
+extensions:
+    - semd
+registered: true

@@ -1,0 +1,5 @@
+type: model/iges
+extensions:
+    - igs
+    - iges
+registered: true

@@ -1,0 +1,4 @@
+type: application/x-pkcs7-mime
+extensions:
+    - p7c
+    - p7m

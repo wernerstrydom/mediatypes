@@ -1,0 +1,9 @@
+type: text/x-c
+extensions:
+    - c
+    - cc
+    - cxx
+    - cpp
+    - h
+    - hh
+    - dic

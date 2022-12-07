@@ -1,0 +1,5 @@
+type: application/vnd.google-earth.kml+xml
+extensions:
+    - kml
+format: text/xml
+registered: true

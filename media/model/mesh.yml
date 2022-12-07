@@ -1,0 +1,5 @@
+type: model/mesh
+extensions:
+    - msh
+    - mesh
+    - silo

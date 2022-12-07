@@ -1,0 +1,4 @@
+type: application/vnd.openxmlformats-officedocument.presentationml.slide
+extensions:
+    - sldx
+registered: true

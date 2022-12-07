@@ -1,0 +1,5 @@
+type: application/srgs+xml
+extensions:
+    - grxml
+format: text/xml
+registered: true

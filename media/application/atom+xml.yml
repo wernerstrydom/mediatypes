@@ -1,0 +1,6 @@
+type: application/atom+xml
+extensions:
+    - atom
+    - xml
+format: text/xml
+registered: true

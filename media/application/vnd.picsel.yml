@@ -1,0 +1,4 @@
+type: application/vnd.picsel
+extensions:
+    - efif
+registered: true

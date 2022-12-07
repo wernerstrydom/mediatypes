@@ -1,0 +1,5 @@
+type: image/vnd.net-fpx
+extensions:
+    - npx
+    - fpx
+registered: true

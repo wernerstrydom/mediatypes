@@ -1,0 +1,3 @@
+type: application/vnd.otps.ct-kip+xml
+format: text/xml
+registered: true

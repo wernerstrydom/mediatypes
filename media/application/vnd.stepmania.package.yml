@@ -1,0 +1,4 @@
+type: application/vnd.stepmania.package
+extensions:
+    - smzip
+registered: true

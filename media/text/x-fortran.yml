@@ -1,0 +1,6 @@
+type: text/x-fortran
+extensions:
+    - f
+    - for
+    - f77
+    - f90

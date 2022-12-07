@@ -1,0 +1,4 @@
+type: application/marc
+extensions:
+    - mrc
+registered: true

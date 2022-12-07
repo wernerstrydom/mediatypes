@@ -1,0 +1,3 @@
+type: application/vnd.gnu.taler.merchant+json
+format: application/json
+registered: true

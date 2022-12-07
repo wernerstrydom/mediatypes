@@ -1,0 +1,6 @@
+type: video/quicktime
+extensions:
+    - qt
+    - moov
+    - mov
+registered: true

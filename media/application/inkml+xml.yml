@@ -1,0 +1,6 @@
+type: application/inkml+xml
+extensions:
+    - ink
+    - inkml
+format: text/xml
+registered: true

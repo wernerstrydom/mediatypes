@@ -1,0 +1,4 @@
+type: application/vnd.pocketlearn
+extensions:
+    - plf
+registered: true

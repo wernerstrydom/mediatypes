@@ -1,0 +1,4 @@
+type: application/vnd.cloanto.rp9
+extensions:
+    - rp9
+registered: true

@@ -1,0 +1,4 @@
+type: application/vnd.sema
+extensions:
+    - sema
+registered: true

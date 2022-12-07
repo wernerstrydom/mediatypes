@@ -1,0 +1,5 @@
+type: video/vnd.mpegurl
+extensions:
+    - mxu
+    - m4u
+registered: true

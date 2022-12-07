@@ -1,0 +1,4 @@
+type: audio/x-twinvq-plugin
+extensions:
+    - vqe
+    - vql

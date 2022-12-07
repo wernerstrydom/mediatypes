@@ -1,0 +1,4 @@
+type: application/vnd.previewsystems.box
+extensions:
+    - box
+registered: true

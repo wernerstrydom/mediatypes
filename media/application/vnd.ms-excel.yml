@@ -1,0 +1,11 @@
+type: application/vnd.ms-excel
+extensions:
+    - xls
+    - xlm
+    - xla
+    - xlc
+    - xlt
+    - xlb
+    - xll
+    - xlw
+registered: true

@@ -1,0 +1,4 @@
+type: application/vnd.hydrostatix.sof-data
+extensions:
+    - sfd-hdstx
+registered: true

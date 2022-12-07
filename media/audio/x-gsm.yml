@@ -1,0 +1,4 @@
+type: audio/x-gsm
+extensions:
+    - gsd
+    - gsm

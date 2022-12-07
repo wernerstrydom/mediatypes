@@ -1,0 +1,4 @@
+type: application/vnd.spotfire.sfs
+extensions:
+    - sfs
+registered: true

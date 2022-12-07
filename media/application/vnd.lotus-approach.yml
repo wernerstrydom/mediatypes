@@ -1,0 +1,4 @@
+type: application/vnd.lotus-approach
+extensions:
+    - apr
+registered: true

@@ -1,0 +1,4 @@
+type: text/n3
+extensions:
+    - n3
+registered: true

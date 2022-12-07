@@ -1,0 +1,6 @@
+type: image/svg+xml
+extensions:
+    - svg
+    - svgz
+format: text/xml
+registered: true

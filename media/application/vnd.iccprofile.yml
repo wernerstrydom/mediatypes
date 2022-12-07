@@ -1,0 +1,5 @@
+type: application/vnd.iccprofile
+extensions:
+    - icc
+    - icm
+registered: true

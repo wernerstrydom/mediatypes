@@ -1,0 +1,4 @@
+type: text/prs.lines.tag
+extensions:
+    - dsc
+registered: true

@@ -1,0 +1,5 @@
+type: application/mp21
+extensions:
+    - m21
+    - mp21
+registered: true

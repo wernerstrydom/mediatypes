@@ -1,0 +1,5 @@
+type: application/iges
+extensions:
+    - iges
+    - igs
+registered: true

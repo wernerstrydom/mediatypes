@@ -1,0 +1,4 @@
+type: application/vnd.blueice.multipass
+extensions:
+    - mpm
+registered: true

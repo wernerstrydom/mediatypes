@@ -1,0 +1,5 @@
+type: text/x-markdown
+extensions:
+    - markdown
+    - md
+    - mkd

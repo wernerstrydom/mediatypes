@@ -1,0 +1,3 @@
+type: application/sarif+json
+format: application/json
+registered: true

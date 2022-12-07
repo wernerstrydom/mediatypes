@@ -1,0 +1,5 @@
+type: application/ccxml+xml
+extensions:
+    - ccxml
+format: text/xml
+registered: true
