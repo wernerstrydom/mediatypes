@@ -1,0 +1,52 @@
+package {{ .PackageName }}
+
+import (
+    "reflect"
+    "testing"
+)
+
+func TestByExtension(t *testing.T) {
+    type args struct {
+        ext string
+    }
+    tests := []struct {
+        name string
+        args args
+        want []MediaType
+    }{
+        {
+            name: "empty extension",
+            args: args{ext: ""},
+            want: nil,
+        },
+        {
+            name: "unknown extension",
+            args: args{ext: "unknown"},
+            want: nil,
+        },
+        {
+            name: "singular",
+            args: args{ext: "gif"},
+            want: []MediaType{
+                {{ range .GifMediaTypes }}mediaTypes[{{ . }}],{{ end }}
+            },
+        },
+        {
+            name: "multiple",
+            args: args{ext: "xml"},
+            want: []MediaType{
+                {{ range .XmlMediaTypes }}mediaTypes[{{ . }}],{{ end }}
+            },
+        },
+
+    }
+    for _, tt := range tests {
+        t.Run(
+            tt.name, func(t *testing.T) {
+                if got := ByExtension(tt.args.ext); !reflect.DeepEqual(got, tt.want) {
+                    t.Errorf("ByExtension() = %v, want %v", got, tt.want)
+                }
+            },
+        )
+    }
+}

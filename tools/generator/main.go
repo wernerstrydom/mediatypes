@@ -1,5 +1,7 @@
 package main
 
-func main() {
+import "generator/cmd"
 
+func main() {
+    cmd.Execute()
 }
